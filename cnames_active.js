@@ -345,6 +345,7 @@ var cnames_active = {
   "bedstack": "cname.vercel-dns.com", // noCF
   "bee": "beejsdev.github.io",
   "begin": "advanced-webapps-class.github.io/begin", // noCF? (don´t add this in a new PR)
+  "bedavahesapal": "emrekelikci00-rgb.github.io/bedavahesapal",
   "belfast": "chrislaughlin.github.io/belfastjs",
   "benjick": "benjick.github.io",
   "berk": "berkelmas.github.io",
